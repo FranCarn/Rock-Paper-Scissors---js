@@ -94,3 +94,15 @@ img {
 .none {
   display: none;
 }
+footer {
+  background-color: black;
+  box-sizing: border-box;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  color: white;
+  padding: 10px;
+  font-size: 15px;
+  text-align: end;
+}
